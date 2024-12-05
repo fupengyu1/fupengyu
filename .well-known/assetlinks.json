@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dkcare.zydoctor_test.debugDev",
+    "sha256_cert_fingerprints":
+    ["FC:18:18:15:6B:A4:D1:C7:B2:09:58:F3:95:6C:6D:4A:E6:48:1B:4A:A4:72:F4:AE:03:68:DC:9D:BB:3D:81:ED"]
+  }
+}]
